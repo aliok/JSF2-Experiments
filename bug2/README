@@ -14,7 +14,7 @@ limitations under the License.
 
 === How to get started ===
 
-This is a project to reproduce the bug http://java.net/jira/browse/JAVASERVERFACES-XXXX.
+This is a project to reproduce the bug http://java.net/jira/browse/JAVASERVERFACES-1966
 
 Just issue "mvn" and maven does the rest;
 
