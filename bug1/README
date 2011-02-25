@@ -14,8 +14,8 @@ limitations under the License.
 
 === How to get started ===
 
+This is a project to reproduce the bug http://java.net/jira/browse/JAVASERVERFACES-1472.
+
 Just issue "mvn" and maven does the rest;
 
 Once up, point your browser to "http://localhost:8080/bug1/test.html" and you will see the problem.
-
-HAVE FUN!
