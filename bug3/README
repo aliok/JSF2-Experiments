@@ -14,9 +14,9 @@ limitations under the License.
 
 === How to get started ===
 
-This is a project to reproduce the bug http://java.net/jira/browse/JAVASERVERFACES-xxx.
+This is a project to reproduce the bug http://java.net/jira/browse/JAVASERVERFACES-1975.
 
 Just issue "mvn" and maven does the rest;
 
-Once up, point your browser to "http://localhost:8080/bug2/test.html" and you will see the problem.
-To see the working example, point your browser to "http://localhost:8080/bug2/test2.html" and you will see the problem.
+Once up, point your browser to "http://localhost:8080/bug3/test.html" and you will see the problem.
+To see the working example, point your browser to "http://localhost:8080/bug3/test2.html".

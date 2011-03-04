@@ -20,3 +20,4 @@ Subprojects :
 
 * https://github.com/aliok/JSF2-Experiments/tree/master/bug1 : Reproduce http://java.net/jira/browse/JAVASERVERFACES-1472 in JSF 2.1.0
 * https://github.com/aliok/JSF2-Experiments/tree/master/bug2 : Reproduce http://java.net/jira/browse/JAVASERVERFACES-1966 in JSF 2.1.0
+* https://github.com/aliok/JSF2-Experiments/tree/master/bug3 : Reproduce http://java.net/jira/browse/JAVASERVERFACES-1975 in JSF 2.1.0
