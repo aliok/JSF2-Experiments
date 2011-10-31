@@ -60,7 +60,8 @@
     <properties>
         <!--<jsf.version>2.0.1</jsf.version>-->  <!--WORKS-->
         <!--<jsf.version>2.0.3</jsf.version>-->
-        <jsf.version>2.1.0-b11</jsf.version>
+        <!--<jsf.version>2.1.0-b11</jsf.version>-->
+        <jsf.version>2.1.3</jsf.version>
     </properties>
 
     <repositories>
