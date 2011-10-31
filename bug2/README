@@ -19,3 +19,6 @@ This is a project to reproduce the bug http://java.net/jira/browse/JAVASERVERFAC
 Just issue "mvn" and maven does the rest;
 
 Once up, point your browser to "http://localhost:8080/bug2/test.html" and you will see the problem.
+
+=== EDIT ===
+This issue is marked as fixed at Mojarra's JIRA. Fix version is not written. On 2.1.3, the problem exists.
